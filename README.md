@@ -17,4 +17,6 @@ README.md：summary
 progress_log：Total progress 
 generate_progress_log：coding for generate progress log
 
+维度内深度、维度间广度
+
 
